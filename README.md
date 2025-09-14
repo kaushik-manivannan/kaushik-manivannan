@@ -18,9 +18,9 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 **Cloud:** AWS, Microsoft Azure, Terraform, Docker
 
 ### Featured Projects
-🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - Production chatbot serving Northeastern students with 40% participation boost
+🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - Production chatbot serving Northeastern students with 40% participation boost  
 💡 **[Flip AI](https://flipai.vercel.app)** - AI flashcard SaaS transforming study material creation from hours to seconds  
-🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Food waste reduction app with AI-powered recipe suggestions
+🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Food waste reduction app with AI-powered recipe suggestions  
 
 ### Fun Facts About Me
 - I built an AI-powered application that government employees actually enjoy using, which apparently violates several laws of nature
@@ -29,7 +29,7 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 
 ### Let's Connect
 - 🌐 **Website:** [kaushikmanivannan.com](https://www.kaushikmanivannan.com)
-- 💼 **LinkedIn:** [in/kaushik-manivannan](https://linkedin.com/in/kaushik-manivannan)
+- 💼 **LinkedIn:** [linkedin.com/in/kaushik-manivannan](https://linkedin.com/in/kaushik-manivannan)
 - 📧 **Email:** manivannan.k@northeastern.edu
 
 ---
