@@ -23,7 +23,7 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Food waste reduction app with AI-powered recipe suggestions  
 
 ### Fun Facts About Me
-- I built an AI-powered application that government employees actually enjoy using, which apparently violates several laws of nature
+- I built an AI-powered app that government employees actually enjoy using, which apparently violates several laws of nature
 - I've presented to more state officials than venture capitalists, and the government meetings were surprisingly more fun
 - I measure success by the problems I permanently eliminate from someone's daily struggle
 
