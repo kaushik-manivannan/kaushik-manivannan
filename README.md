@@ -5,9 +5,9 @@
 I'm a Software Engineering Systems graduate student at Northeastern University, graduating December 2025. I build full-stack AI applications that solve real problems for real organizations.
 
 ### What I'm Working On
-🏛️ **Currently:** Building AI-powered document processing systems for the New Jersey Economic Development Authority  
-🎓 **Academic:** MS in Software Engineering Systems at Northeastern University  
-🔬 **Research:** Modernizing platforms that preserve mobile gaming history for 500+ researchers worldwide
+🔬 **Currently:** Modernizing research platforms that preserve mobile gaming history for 500+ scholars worldwide  
+🎓 **Academic:** MS in Software Engineering Systems at Northeastern University (Dec 2025)  
+💡 **Recent:** Built AI-powered document processing systems for the New Jersey Economic Development Authority
 
 ### I Build With
 **Languages:** JavaScript, TypeScript, Python, Java, C#  
@@ -18,9 +18,10 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 **Cloud:** AWS, Microsoft Azure, Terraform, Docker
 
 ### Featured Projects
-🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - Production chatbot serving Northeastern students with 40% participation boost  
-💡 **[Flip AI](https://flipai.vercel.app)** - AI flashcard SaaS transforming study material creation from hours to seconds  
-🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Food waste reduction app with AI-powered recipe suggestions  
+☁️ **[Cloud Native Web Application](https://github.com/kaushik-manivannan-cloud-org/webapp)** - A high-performance, cloud-native web application built with modern DevOps practices and cloud-first architecture.
+🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - AI RAG Chatbot providing real-time information about Northeastern University's Intramural Sports program, leveraging a custom knowledge base and NLP to answer student queries.
+💡 **[Flip AI](https://flipai.vercel.app)** - AI-Powered SaaS app that instantly transforms any topic into custom flashcards for fast and engaging learning.
+🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Next.js app designed to simplify cooking and grocery management for busy individuals.
 
 ### Fun Facts About Me
 - I built an AI-powered app that government employees actually enjoy using, which apparently violates several laws of nature
