@@ -27,6 +27,7 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 - I built an AI-powered app that government employees actually enjoy using, which apparently violates several laws of nature
 - I've presented to more state officials than venture capitalists, and the government meetings were surprisingly more fun
 - I measure success by the problems I permanently eliminate from someone's daily struggle
+- When I'm not coding, you'll find me on the cricket field or exploring single-player adventures on PlayStation
 
 ### Let's Connect
 - 🌐 **Website:** [kaushikmanivannan.com](https://www.kaushikmanivannan.com)
