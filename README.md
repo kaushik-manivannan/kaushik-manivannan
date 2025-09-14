@@ -11,11 +11,11 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 
 ### I Build With
 **Languages:** JavaScript, TypeScript, Python, Java, C#  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, Spring Boot  
-**Databases:** PostgreSQL, MongoDB, DynamoDB
-**AI/ML:** OpenAI API, TensorFlow, Pinecone, Vector Databases, LangChain  
-**Cloud:** AWS, Microsoft Azure, Terraform, Docker
+**Web Technologies:** React, Next.js, Node.js, Express.js, Redux, Spring Boot, Hibernate, HTML, CSS, SASS, Tailwind  
+**Databases:** PostgreSQL, MongoDB, DynamoDB, Oracle, MySQL, Firestore  
+**AI/ML:** OpenAI API, TensorFlow, Vector Databases, Pinecone, Chroma, HuggingFace, LangChain  
+**Cloud & DevOps:** AWS (EC2, Lambda, S3, RDS), Azure, Terraform, Docker, GitHub Actions, Vercel, Linux/Unix, Bash  
+**Developer Tools:** Git, GitHub, VS Code, Cursor, Postman, Vite  
 
 ### Featured Projects
 ☁️ **[Cloud Native Web Application](https://github.com/kaushik-manivannan-cloud-org/webapp)** - A high-performance, cloud-native web application built with modern DevOps practices and cloud-first architecture.  
