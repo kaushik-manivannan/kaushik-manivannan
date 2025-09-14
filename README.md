@@ -2,7 +2,7 @@
 
 ## A Full-Stack AI Software Engineer
 
-I'm a Software Engineering Systems graduate student at Northeastern University, graduating December 2025. I build full-stack AI applications that solve real problems for real organizations.
+I'm a Software Engineering Systems graduate student at Northeastern University, graduating December 2025. I build full-stack AI applications with proven business impact.
 
 ### What I'm Working On
 🔬 **Currently:** Modernizing research platforms that preserve mobile gaming history for 500+ scholars worldwide  
@@ -18,10 +18,10 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 **Cloud:** AWS, Microsoft Azure, Terraform, Docker
 
 ### Featured Projects
-☁️ **[Cloud Native Web Application](https://github.com/kaushik-manivannan-cloud-org/webapp)** - A high-performance, cloud-native web application built with modern DevOps practices and cloud-first architecture.
-🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - AI RAG Chatbot providing real-time information about Northeastern University's Intramural Sports program, leveraging a custom knowledge base and NLP to answer student queries.
-💡 **[Flip AI](https://flipai.vercel.app)** - AI-Powered SaaS app that instantly transforms any topic into custom flashcards for fast and engaging learning.
-🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Next.js app designed to simplify cooking and grocery management for busy individuals.
+☁️ **[Cloud Native Web Application](https://github.com/kaushik-manivannan-cloud-org/webapp)** - A high-performance, cloud-native web application built with modern DevOps practices and cloud-first architecture.  
+🤖 **[AI RAG Chatbot](https://neuimbot.vercel.app)** - AI RAG Chatbot providing real-time information about Northeastern University's Intramural Sports program, leveraging a custom knowledge base and NLP to answer student queries.  
+💡 **[Flip AI](https://flipai.vercel.app)** - AI-Powered SaaS app that instantly transforms any topic into custom flashcards for fast and engaging learning.  
+🍳 **[Kitchen Rescue](https://kitchenrescue.vercel.app)** - Next.js app designed to simplify cooking and grocery management for busy individuals.  
 
 ### Fun Facts About Me
 - I built an AI-powered app that government employees actually enjoy using, which apparently violates several laws of nature
