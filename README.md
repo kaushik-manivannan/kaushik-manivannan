@@ -2,15 +2,15 @@
 
 ## A Full-Stack AI Software Engineer
 
-I'm a Software Engineering Systems graduate student at Northeastern University, graduating December 2025. I build full-stack AI applications with proven business impact.
+I graduated with a Master's in Software Engineering Systems from Northeastern University in December 2025. I build full-stack AI applications with proven business impact.
 
-### What I'm Working On
-🔬 **Currently:** Modernizing research platforms that preserve mobile gaming history for 500+ scholars worldwide  
+### What I've Worked On
+🔬 **Currently:** Modernized research platforms that preserve mobile gaming history for 500+ scholars worldwide  
 🎓 **Academic:** MS in Software Engineering Systems at Northeastern University (Dec 2025)  
 💡 **Recent:** Built AI-powered document processing systems for the New Jersey Economic Development Authority
 
 ### I Build With
-**Languages:** JavaScript, TypeScript, Python, Java, C#  
+**Languages:** JavaScript, TypeScript, Python, Java, C#, C++ 
 **Web Technologies:** React, Next.js, Node.js, Express.js, Redux, Spring Boot, Hibernate, HTML, CSS, SASS, Tailwind  
 **Databases:** PostgreSQL, MongoDB, DynamoDB, Oracle, MySQL, Firestore  
 **AI/ML:** OpenAI API, TensorFlow, Vector Databases, Pinecone, Chroma, HuggingFace, LangChain  
@@ -25,14 +25,14 @@ I'm a Software Engineering Systems graduate student at Northeastern University, 
 
 ### Fun Facts About Me
 - I built an AI-powered app that government employees actually enjoy using, which apparently violates several laws of nature
-- I've presented to more state officials than venture capitalists, and the government meetings were surprisingly more fun
+- I've presented to more state officials than venture capitalists, and the government meetings were surprisingly fun
 - I measure success by the problems I permanently eliminate from someone's daily struggle
 - When I'm not coding, you'll find me on the cricket field or exploring single-player adventures on PlayStation
 
 ### Let's Connect
 - 🌐 **Website:** [kaushikmanivannan.com](https://www.kaushikmanivannan.com)
 - 💼 **LinkedIn:** [linkedin.com/in/kaushik-manivannan](https://linkedin.com/in/kaushik-manivannan)
-- 📧 **Email:** manivannan.k@northeastern.edu
+- 📧 **Email:** kaushik.manivannan@gmail.com
 
 ---
 *"The best engineering happens when technical rigor meets genuine empathy for the people using what we build."*
